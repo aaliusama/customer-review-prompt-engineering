@@ -1,0 +1,7 @@
+prompt,model,exact_match
+v3,gpt-4.1-nano,0.2
+v1,gpt-4.1-nano,0.1
+v1,gemini-flash,0.1
+v2,gpt-4.1-nano,0.1
+v3,gemini-flash,0.1
+v2,gemini-flash,0.0

@@ -1,0 +1,7 @@
+prompt_version,model,rougeL_f1
+v2,gemini,0.216
+v3,openai,0.209
+v1,openai,0.205
+v2,openai,0.201
+v1,gemini,0.197
+v3,gemini,0.185
