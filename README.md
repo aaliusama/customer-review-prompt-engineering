@@ -196,10 +196,7 @@ IMDb Pulp Fiction reviews dataset from [Kimola NLP Datasets](https://github.com/
 
 This project is open source and available for educational and research purposes.
 
-## Author
 
-**Usama Ali**
-[GitHub](https://github.com/aaliusama) | [LinkedIn](https://linkedin.com/in/aaliusama)
 
 ---
 
